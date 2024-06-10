@@ -1,0 +1,8 @@
+
+python
+
+def converter_peso_lb_para_kg(peso_lb): return peso_lb * 0.453592
+
+peso_1b 154 # em libras
+
+peso_kg = converter_peso_lb_para_kg(peso_lb) print(f"O peso em quilogramas é: {peso_kg:.2f} kg")
